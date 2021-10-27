@@ -24,12 +24,12 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/nazar/eclipse-workspace/LIbrerias/mysql-connector-java-5.1.23-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/nazar/eclipse-workspace/LIbrerias/activation.jar"/>
-	<classpathentry kind="lib" path="C:/Users/nazar/eclipse-workspace/LIbrerias/webservices-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/nazar/eclipse-workspace/LIbrerias/webservices-extra.jar"/>
-	<classpathentry kind="lib" path="C:/Users/nazar/eclipse-workspace/LIbrerias/webservices-extra-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/nazar/eclipse-workspace/LIbrerias/webservices-rt.jar"/>
-	<classpathentry kind="lib" path="C:/Users/nazar/eclipse-workspace/LIbrerias/webservices-tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nazar/Documents/GitHub/TutorialesSoap/crudSoap/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nazar/Documents/GitHub/TutorialesSoap/crudSoap/lib/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nazar/Documents/GitHub/TutorialesSoap/crudSoap/lib/webservices-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nazar/Documents/GitHub/TutorialesSoap/crudSoap/lib/webservices-extra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nazar/Documents/GitHub/TutorialesSoap/crudSoap/lib/webservices-extra-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nazar/Documents/GitHub/TutorialesSoap/crudSoap/lib/webservices-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nazar/Documents/GitHub/TutorialesSoap/crudSoap/lib/webservices-tools.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
